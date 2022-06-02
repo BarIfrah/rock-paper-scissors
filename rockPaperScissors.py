@@ -2,13 +2,17 @@
 # A code file structure:
 # A line that starts with "#"  is a comment line (it will not be interpreted)
 """
-If you ant to comment multiple lines, start and finish with three (3) double quotes (")
+If you want to comment multiple lines, start and finish with three (3) double quotes (")
 As you can see, this line is also a comment.
 
 """
+"""
+I am a comment
 
+
+"""
 # ----------------------------------------------------------------------------------------------------------------------
-# Here you include all of your package imports (like randome and time packages wev'e discussed about) 
+# Here you include all of your package imports (like random and time packages we've discussed about)
 # ----------------------------------------------------------------------------------------------------------------------
 import random
 
